@@ -1,2 +1,15 @@
-# KICS-Project-Template
-Official project template for KIET Group student projects.
+# Source Code
+
+Store all project source code.
+
+Suggested Structure:
+
+Backend/
+
+Frontend/
+
+AI-Models/
+
+APIs/
+
+Utilities/
