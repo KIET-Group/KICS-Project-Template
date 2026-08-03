@@ -1,6 +1,7 @@
 # Presentation
 
 Store:
+
 - Project PPT
-- Posters
-- Pitch Deck
+- Poster
+- Demo Slides
