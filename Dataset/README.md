@@ -1,7 +1,9 @@
 # Dataset
 
 Store:
-- Raw Dataset
-- Processed Dataset
+
+- Original Dataset
+- Cleaned Dataset
+- Dataset Description
 - Dataset Source
 - Data Dictionary
